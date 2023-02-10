@@ -46,7 +46,8 @@ jupyter notebook
 # Doc2Vec
 * Word2Vec의 확장된 개념으로 문서나 문장단위로 임베딩을 해주는 모델
 * 타겟 단어와 이전 단어 k 개가 주어졌을 때, 이전 단어들 + 해당 문서의 아이디로 타겟 단어를 예측하는 과정에서 문맥이 비슷한 문서 벡터와 단어 벡터가 유사하게(코사인 유사도) 임베딩됨
-* PV-DM (사용)
+* PV-DM과 PV-DBOW 중 PV-DM이 성능이 더 좋게 나오는 것 같아 PV-DM으로 사용
+* PV-DM 
 
 ![image](https://user-images.githubusercontent.com/93864811/213360671-1f4314f4-3aa3-4b3e-a593-2584d6f6cf40.png)
 
