@@ -61,10 +61,12 @@ jupyter notebook
 # Reuslts
 
 * resume1 - 마케팅(디지털, 온라인, 매체 관련 마케팅 경력)
+![image](https://user-images.githubusercontent.com/93864811/218108967-3095aedb-088d-4755-a58b-44c277593367.png)
 
 ![image](https://user-images.githubusercontent.com/93864811/213361886-332cd8ef-06fc-433f-aa36-315cb617d64a.png)
 
 * resume2 - 마케팅(브랜딩 관련 경력)
+![image](https://user-images.githubusercontent.com/93864811/218109153-08dccce9-eea7-4d41-8e48-5f8fa0f32672.png)
 
 ![image](https://user-images.githubusercontent.com/93864811/213362096-0f2733c0-71de-4e6e-ac17-6c2d1cb6cf20.png)
 
