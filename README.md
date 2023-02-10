@@ -9,6 +9,11 @@
 google colab
 jupyter notebook
 
+# member
+* 손창진 - 모델설계, oversmapling, 분류 성능 증가시키기
+* 전창석 - crawling, doc2vec
+* 강기훈 - crawling, 분류 성능 증가시키기
+
 # Data
 사람인 헤드헌팅 채용공고에서 크롤링하여 사용
 
